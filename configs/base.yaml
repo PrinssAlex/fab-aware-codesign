@@ -1,0 +1,5 @@
+# Base configuration (example)
+project:
+  name: fab-aware-codesign
+paths:
+  outputs_dir: outputs
